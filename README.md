@@ -4,10 +4,8 @@ Using Farneback algorithm to extract dense optical flow from adjacent two frames
 ## adjacent two frames of video
 <p>
 	<img src="https://github.com/lcylmhlcy/Farneback/raw/master/img/image_0001.jpg" alt="Sample"  width="400">
-</p>  
-<p>
 	<img src="https://github.com/lcylmhlcy/Farneback/raw/master/img/image_0002.jpg" alt="Sample"  width="400">
-</p> 
+</p>  
 
 ## dense optical flow
 <p>
@@ -17,6 +15,7 @@ Using Farneback algorithm to extract dense optical flow from adjacent two frames
 	<img src="https://github.com/lcylmhlcy/Farneback/raw/master/img/4.jpg" alt="Sample"  width="400">
 </p> 
 
+## The processed binary graph
 <p>
 	<img src="https://github.com/lcylmhlcy/Farneback/raw/master/img/5.jpg" alt="Sample"  width="400">
 </p>  
